@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.list {
+  font-size: 1.5rem;
+}
+
+.list-item {
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+
+.form {
+  margin-top: 1.5rem;
+}
+
+.users {
+  margin-top: 1.5rem;
+}
+
+.users-list-item {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  align-items: center;
+  text-align: center;
+}
+
+.users-list-item span {
+  text-align: center;
+}
+
+.list-item label {
+  width: 100%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.list-item label i {
+  cursor: pointer;
+  z-index: 2;
+}
